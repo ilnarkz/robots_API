@@ -23,6 +23,11 @@ source .venv/bin/activate
 make install
 ```
 
+### Применение миграций
+
+```bash
+make migrate
+```
 
 ## Запуск сервера
 
